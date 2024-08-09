@@ -1,7 +1,7 @@
 const profileData = {
   title: "Curriculum Vitae",
   name: "Hilda Abena Wilson",
-  sub_title: "Information Technology Student | Cybersecurity Enthusiast",
+  sub_title: "Information Technology Student | Cybersecurity Enthusiast | Computer Networking and Security ",
   logoURL: "assets/images/dp.jpg",
   about: {
     intro: `I am an Information Technology student with a strong passion for cybersecurity, particularly in the field of Digital Forensics, as well as Computer Networking and Security. Throughout my studies, I have developed basic knowledge and skills in Digital Forensics, and an in-depth understanding and practice in Computer Networking. I am always eager to learn and take on new challenges, and I am committed to using my skills to help organizations stay safe from cyber threats and maintain secure computer networks.`,
